@@ -15,3 +15,9 @@ A basic implemenation of a board game known as mills/9 man's morris in java.
 6. Across all phases, the objective is to form a line with 3 pieces in a row. Doing this will allow you to select an opponent's piece to remove from the board.
 
 7. Once the game is over, it will return you to the main menu.
+
+---
+## Contributors
+- ssah0022@student.monash.edu
+- araz0013@student.monash.edu
+- amos0006@student.monash.edu
